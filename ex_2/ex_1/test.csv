@@ -1,0 +1,5 @@
+Sequence, Enterring Time, Running Time, Priority, Waiting Time
+0,10:00,40,5,0
+1,10:20,30,3,0
+2,10:30,50,4,0
+3,10:50,20,6,0
